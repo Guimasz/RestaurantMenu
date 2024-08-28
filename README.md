@@ -1,2 +1,10 @@
 # RestaurantMenu
-Projeto fullstack que utiliza Java Spring e PostegreSql no back-end e React no front-end
+
+## English
+
+Fullstack project of a restaurant menu. CRUD operations are implemented in Java Spring with JPA and PostgreSQL, using REST APIs to send requests to the Front-end built with ReactJS.
+
+## Português
+
+Projeto fullstack de um cardápio. CRUD feito em Java Spring com JPA e PostgreSql, utilizando REST Apis para enviar requisições ao Front-end feito com ReactJS.
+
